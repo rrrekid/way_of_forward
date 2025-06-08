@@ -2,7 +2,7 @@
  <img width="1024px" height="528px" src="replogo.png" alt="qr"/>
 </p>
 
-# NEAREST-STAGE: ENGINE
+# WoF Engine
 Way Of Forward Engine - движок основанный на наработках X-RAY OMP и NEAREST-STAGE Engine
 
 
